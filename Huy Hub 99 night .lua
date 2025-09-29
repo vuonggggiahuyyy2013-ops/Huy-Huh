@@ -11,7 +11,7 @@
   IMPORTANT:
   You must copy and use the FULL script below. Do NOT press on the link.:
 
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/loader.lua", true))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/vuonggggiahuyyy2013-ops/Huy-Huh/refs/heads/main/Huy%20Hub%2099%20night%20gui%202.Lua", true))()
 
 ----------------------------------------------------------------------------
   For support head over to discord.gg/Huy Hub
@@ -182,5 +182,6 @@ task.spawn(function()
 end)
 
 local commit = shared.CustomCommit and tostring(shared.CustomCommit) or shared.StagingMode and "staging" or "35ead6360a229d785bb5c2644a694b495f2cd58f"
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/"..tostring(commit).."/newnightsintheforest.lua", true))()
