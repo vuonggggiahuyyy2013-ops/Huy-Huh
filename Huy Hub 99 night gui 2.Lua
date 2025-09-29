@@ -11,7 +11,7 @@
   IMPORTANT:
   You must copy and use the FULL script below. Do NOT press on the link.:
 
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/loader.lua", true))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/vuonggggiahuyyy2013-ops/Huy-Huh/refs/heads/main/Huy%20Hub%2099%20night%20.lua", true))()
 
 ----------------------------------------------------------------------------
   For support head over to discord.gg/Void ware (Huy Hub hợp tác)
@@ -37,7 +37,7 @@ local meta = {
     [7326934954] = {
         title = "99 Nights In The Forest",
         dev = "vwdev/nightsintheforest.lua",
-        script = "https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua"
+        script = "https://raw.githubusercontent.com/vuonggggiahuyyy2013-ops/Huy-Huh/refs/heads/main/Huy%20Hub%2099%20night%20.lua"
     }
 }
 local data = meta[game.GameId]
@@ -92,4 +92,5 @@ else
             end)
         end
     end
+
 end
